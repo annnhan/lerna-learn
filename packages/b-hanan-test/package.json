@@ -1,5 +1,5 @@
 {
-  "name": "b",
+  "name": "b-hanan-test",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "a": "^1.0.0"
+    "a-hanan-test": "^1.0.0"
   }
 }
