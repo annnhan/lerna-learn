@@ -1,6 +1,6 @@
 {
   "name": "b-hanan-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "a-hanan-test": "^1.0.0"
+    "a-hanan-test": "^1.0.2"
   }
 }
