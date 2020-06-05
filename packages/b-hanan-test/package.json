@@ -9,5 +9,6 @@
   "license": "ISC",
   "dependencies": {
     "a-hanan-test": "^1.0.2"
-  }
+  },
+  "gitHead": "5f8c3bdd4e937717ee30353b32a7a518e74c5518"
 }
